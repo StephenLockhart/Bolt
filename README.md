@@ -2,12 +2,10 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="DoubleCheck 标志">
   <rect width="64" height="64" rx="15" fill="#1E3A8A"/>
-  <g transform="rotate(-30 32 32)">
-    <path d="M32 12A20 20 0 0 0 32 52A10 10 0 0 1 32 32A10 10 0 0 0 32 12Z" fill="#FFFFFF"/>
-    <circle cx="32" cy="22" r="3.2" fill="#1E3A8A"/>
-    <circle cx="32" cy="42" r="4.4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
-  </g>
-  <circle cx="32" cy="32" r="25.5" fill="none" stroke="#FFFFFF" stroke-width="2.1" stroke-dasharray="64 16.1" stroke-linecap="round" transform="rotate(-12 32 32)"/>
+  <path d="M32 12A20 20 0 0 0 32 52A10 10 0 0 1 32 32A10 10 0 0 0 32 12Z" fill="#FFFFFF" transform="rotate(-30 32 32)"/>
+  <circle cx="37" cy="23.3" r="3" fill="#1E3A8A"/>
+  <circle cx="48" cy="27" r="4.4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <circle cx="32" cy="32" r="25.5" fill="none" stroke="#FFFFFF" stroke-width="2.1" stroke-dasharray="96 160" stroke-linecap="round" transform="rotate(-45 32 32)"/>
 </svg>
 
 **thinking at the right speed.** · 不徐不疾，得之于手
