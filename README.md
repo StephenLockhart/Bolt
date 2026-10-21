@@ -1,18 +1,13 @@
-# DoubleCheck · 快慢机
+# DoubleCheck（DC）· 快慢机
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" role="img" aria-label="DoubleCheck · 快慢机 logo">
-  <circle cx="84" cy="80" r="27" fill="none" stroke="#1E3A8A" stroke-width="4.5"/>
-  <circle cx="84" cy="80" r="16" fill="none" stroke="#1E3A8A" stroke-width="3"/>
-  <circle cx="170" cy="80" r="15" fill="none" stroke="#1E3A8A" stroke-width="4.5"/>
-  <circle cx="170" cy="80" r="8" fill="none" stroke="#1E3A8A" stroke-width="3"/>
-  <path d="M84 32H164A48 48 0 0 1 164 128H84A48 48 0 0 1 84 32Z" fill="none" stroke="#2563EB" stroke-width="7" stroke-linejoin="round"/>
-  <path d="M88 35.5H94L91 38.5ZM99 35.5H105L102 38.5ZM110 35.5H116L113 38.5ZM121 35.5H127L124 38.5ZM132 35.5H138L135 38.5ZM143 35.5H149L146 38.5ZM154 35.5H160L157 38.5ZM88 124.5H94L91 121.5ZM99 124.5H105L102 121.5ZM110 124.5H116L113 121.5ZM121 124.5H127L124 121.5ZM132 124.5H138L135 121.5ZM143 124.5H149L146 121.5ZM154 124.5H160L157 121.5Z" fill="#2563EB"/>
-  <g stroke="#171717" stroke-width="4" stroke-linecap="round">
-    <line x1="84" y1="80" x2="84" y2="60" transform="rotate(-25 84 80)"/>
-    <line x1="170" y1="80" x2="170" y2="70" transform="rotate(155 170 80)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="DoubleCheck 标志">
+  <rect width="64" height="64" rx="15" fill="#1E3A8A"/>
+  <g transform="rotate(-30 32 32)">
+    <path d="M32 12A20 20 0 0 0 32 52A10 10 0 0 1 32 32A10 10 0 0 0 32 12Z" fill="#FFFFFF"/>
+    <circle cx="32" cy="22" r="3.2" fill="#1E3A8A"/>
+    <circle cx="32" cy="42" r="4.4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
   </g>
-  <circle cx="84" cy="80" r="2.5" fill="#171717"/>
-  <circle cx="170" cy="80" r="2.5" fill="#171717"/>
+  <circle cx="32" cy="32" r="25.5" fill="none" stroke="#FFFFFF" stroke-width="2.1" stroke-dasharray="64 16.1" stroke-linecap="round" transform="rotate(-12 32 32)"/>
 </svg>
 
 **thinking at the right speed.** · 不徐不疾，得之于手
