@@ -1,6 +1,6 @@
-# WheelPace · 快慢机
+# DoubleCheck · 快慢机
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" role="img" aria-label="WheelPace · 快慢机 logo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" role="img" aria-label="DoubleCheck · 快慢机 logo">
   <circle cx="84" cy="80" r="27" fill="none" stroke="#1E3A8A" stroke-width="4.5"/>
   <circle cx="84" cy="80" r="16" fill="none" stroke="#1E3A8A" stroke-width="3"/>
   <circle cx="170" cy="80" r="15" fill="none" stroke="#1E3A8A" stroke-width="4.5"/>
@@ -17,7 +17,7 @@
 
 **thinking at the right speed.** · 不徐不疾，得之于手
 
-WheelPace 把 AI 的思考分层：**快挡**陪人对话、**慢挡**跨天推进任务、**探索层**在后台检索——全部沉淀进属于你自己的个人 AI 记忆。
+DoubleCheck（简称 DC，对标 DeepSeek 的 DS）＝ double + check（双检）——check 两遍：快一遍即答、慢一遍复核。产品把 AI 的思考分层：**快挡**陪人对话、**慢挡**跨天推进任务、**探索层**在后台检索——全部沉淀进属于你自己的个人 AI 记忆。
 
 ## 功能亮点
 
