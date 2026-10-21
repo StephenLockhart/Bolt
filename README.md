@@ -17,7 +17,7 @@
 
 **thinking at the right speed.** · 不徐不疾，得之于手
 
-DoubleCheck（简称 DC，对标 DeepSeek 的 DS）＝ double + check（双检）——check 两遍：快一遍即答、慢一遍复核。产品把 AI 的思考分层：**快挡**陪人对话、**慢挡**跨天推进任务、**探索层**在后台检索——全部沉淀进属于你自己的个人 AI 记忆。
+DoubleCheck（简称 DC，对标 DeepSeek 的 DS）＝ double + check——人在回路、按需接入：只在关键时机请你把关，其余时间 AI 全力奔跑。产品把 AI 的思考分层：**快挡**陪人对话、**慢挡**跨天推进任务、**探索层**在后台检索——全部沉淀进属于你自己的个人 AI 记忆。
 
 ## 功能亮点
 
